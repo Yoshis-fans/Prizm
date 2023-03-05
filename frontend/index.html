@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Prizm</title>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div id="rootdiv">
+        <center>
+            <h1>Uh oh! The interface didn't load...</h1>
+            <p>It's not your fault. It's me. I'm so sorry about that.</p>
+        </center>
+    </div>
+
+    <!-- Load React. -->
+    <!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+    <script src="js/react.development.js"></script>
+    <script src="js/react-dom.development.js"></script>
+
+    <!-- Load Babel JSX compiler -->
+    <script src="js/babel.min.js"></script>
+
+    <!-- Additional modules -->
+    <script src="js/socket.io.js"></script>
+    <script src="js/react-webcam.js"></script>
+
+    <!-- Load react component -->
+    <script src="app.jsx" type="text/babel"></script>
+</body>
+</html>
