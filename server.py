@@ -11,7 +11,7 @@ from color_detector import ColorDetector
 class Server:
     ''' Simple AIOHTTP web server '''
 
-    def __init__(self, host: str = "0.0.0.0", port: int = 10000) -> None:
+    def __init__(self, host: str = '0.0.0.0', port: int = 10000) -> None:
         self.app_host = host
         self.app_port = port
 
