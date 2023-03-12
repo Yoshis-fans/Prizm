@@ -1,0 +1,5 @@
+colorthief
+opencv-python
+pandas
+numpy
+python-espeak
