@@ -2,4 +2,4 @@ colorthief
 opencv-python
 pandas
 numpy
-
+aiohttp
