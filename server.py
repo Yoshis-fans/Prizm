@@ -23,7 +23,7 @@ class Server:
         self.__route_table = web.RouteTableDef()
 
         # Serve static files
-        self.__route_table.static("/", "../frontend")
+        self.__route_table.static("/", "frontend")
 
         # Define additional routes here
 
