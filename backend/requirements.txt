@@ -3,4 +3,4 @@ opencv-python
 pandas
 numpy
 aiohttp
-socketio
+python-socketio
