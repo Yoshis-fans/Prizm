@@ -1,0 +1,1658 @@
+[
+  {
+    "RAL": "RAL 1000",
+    "R": 190,
+    "G": 189,
+    "B": 127,
+    "HEX": "#BEBD7F",
+    "English": "Light Green"
+  },
+  {
+    "RAL": "RAL 1001",
+    "R": 194,
+    "G": 176,
+    "B": 120,
+    "HEX": "#C2B078",
+    "English": "Beige"
+  },
+  {
+    "RAL": "RAL 1002",
+    "R": 198,
+    "G": 166,
+    "B": 100,
+    "HEX": "#C6A664",
+    "English": "Beige"
+  },
+  {
+    "RAL": "RAL 1003",
+    "R": 229,
+    "G": 190,
+    "B": 1,
+    "HEX": "#E5BE01",
+    "English": "Yellow"
+  },
+  {
+    "RAL": "RAL 1004",
+    "R": 205,
+    "G": 164,
+    "B": 52,
+    "HEX": "#CDA434",
+    "English": "Golden yellow"
+  },
+  {
+    "RAL": "RAL 1005",
+    "R": 169,
+    "G": 131,
+    "B": 7,
+    "HEX": "#A98307",
+    "English": "Dark yellow"
+  },
+  {
+    "RAL": "RAL 1006",
+    "R": 228,
+    "G": 160,
+    "B": 16,
+    "HEX": "#E4A010",
+    "English": "Yellow"
+  },
+  {
+    "RAL": "RAL 1007",
+    "R": 220,
+    "G": 156,
+    "B": 0,
+    "HEX": "#DC9D00",
+    "English": "Mustard yellow"
+  },
+  {
+    "RAL": "RAL 1011",
+    "R": 138,
+    "G": 102,
+    "B": 66,
+    "HEX": "#8A6642",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 1012",
+    "R": 199,
+    "G": 180,
+    "B": 70,
+    "HEX": "#C7B446",
+    "English": "Greenish yellow"
+  },
+  {
+    "RAL": "RAL 1013",
+    "R": 234,
+    "G": 230,
+    "B": 202,
+    "HEX": "#EAE6CA",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 1014",
+    "R": 225,
+    "G": 204,
+    "B": 79,
+    "HEX": "#E1CC4F",
+    "English": "Greenish Yellow"
+  },
+  {
+    "RAL": "RAL 1015",
+    "R": 230,
+    "G": 214,
+    "B": 144,
+    "HEX": "#E6D690",
+    "English": "Cream"
+  },
+  {
+    "RAL": "RAL 1016",
+    "R": 237,
+    "G": 255,
+    "B": 33,
+    "HEX": "#EDFF21",
+    "English": "Bright Yellow"
+  },
+  {
+    "RAL": "RAL 1017",
+    "R": 245,
+    "G": 208,
+    "B": 51,
+    "HEX": "#F5D033",
+    "English": "Saffron yellow"
+  },
+  {
+    "RAL": "RAL 1018",
+    "R": 248,
+    "G": 243,
+    "B": 53,
+    "HEX": "#F8F32B",
+    "English": "Bright Yellow"
+  },
+  {
+    "RAL": "RAL 1019",
+    "R": 158,
+    "G": 151,
+    "B": 100,
+    "HEX": "#9E9764",
+    "English": "Dull Yellow"
+  },
+  {
+    "RAL": "RAL 1020",
+    "R": 153,
+    "G": 153,
+    "B": 80,
+    "HEX": "#999950",
+    "English": "Khaki"
+  },
+  {
+    "RAL": "RAL 1023",
+    "R": 250,
+    "G": 210,
+    "B": 1,
+    "HEX": "#FAD201",
+    "English": "Yellow"
+  },
+  {
+    "RAL": "RAL 1024",
+    "R": 174,
+    "G": 160,
+    "B": 75,
+    "HEX": "#AEA04B",
+    "English": "Khaki"
+  },
+  {
+    "RAL": "RAL 1026",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "HEX": "#FFFF00",
+    "English": "Bright yellow"
+  },
+  {
+    "RAL": "RAL 1027",
+    "R": 157,
+    "G": 145,
+    "B": 1,
+    "HEX": "#9D9101",
+    "English": "Curry"
+  },
+  {
+    "RAL": "RAL 1028",
+    "R": 244,
+    "G": 169,
+    "B": 0,
+    "HEX": "#F4A900",
+    "English": "Orange"
+  },
+  {
+    "RAL": "RAL 1032",
+    "R": 214,
+    "G": 174,
+    "B": 1,
+    "HEX": "#D6AE01",
+    "English": "Dark Yellow"
+  },
+  {
+    "RAL": "RAL 1033",
+    "R": 243,
+    "G": 165,
+    "B": 5,
+    "HEX": "#F3A505",
+    "English": "Orange"
+  },
+  {
+    "RAL": "RAL 1034",
+    "R": 239,
+    "G": 169,
+    "B": 74,
+    "HEX": "#EFA94A",
+    "English": "Peach"
+  },
+  {
+    "RAL": "RAL 1035",
+    "R": 106,
+    "G": 93,
+    "B": 77,
+    "HEX": "#6A5D4D",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 1036",
+    "R": 112,
+    "G": 83,
+    "B": 53,
+    "HEX": "#705335",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 1037",
+    "R": 243,
+    "G": 159,
+    "B": 24,
+    "HEX": "#F39F18",
+    "English": "Bright orange"
+  },
+  {
+    "RAL": "RAL 2000",
+    "R": 237,
+    "G": 118,
+    "B": 14,
+    "HEX": "#ED760E",
+    "English": "Orange"
+  },
+  {
+    "RAL": "RAL 2001",
+    "R": 201,
+    "G": 60,
+    "B": 32,
+    "HEX": "#C93C20",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 2002",
+    "R": 203,
+    "G": 40,
+    "B": 33,
+    "HEX": "#CB2821",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 2003",
+    "R": 255,
+    "G": 117,
+    "B": 20,
+    "HEX": "#FF7514",
+    "English": "Orange"
+  },
+  {
+    "RAL": "RAL 2004",
+    "R": 244,
+    "G": 70,
+    "B": 17,
+    "HEX": "#F44611",
+    "English": "Orange"
+  },
+  {
+    "RAL": "RAL 2005",
+    "R": 255,
+    "G": 35,
+    "B": 1,
+    "HEX": "#FF2301",
+    "English": "Bright Orange"
+  },
+  {
+    "RAL": "RAL 2007",
+    "R": 255,
+    "G": 164,
+    "B": 32,
+    "HEX": "#FFA420",
+    "English": "Yellow"
+  },
+  {
+    "RAL": "RAL 2008",
+    "R": 247,
+    "G": 94,
+    "B": 37,
+    "HEX": "#F75E25",
+    "English": "Peach"
+  },
+  {
+    "RAL": "RAL 2009",
+    "R": 245,
+    "G": 64,
+    "B": 33,
+    "HEX": "#F54021",
+    "English": "Pink"
+  },
+  {
+    "RAL": "RAL 2010",
+    "R": 216,
+    "G": 75,
+    "B": 32,
+    "HEX": "#D84B20",
+    "English": "Light brown"
+  },
+  {
+    "RAL": "RAL 2011",
+    "R": 236,
+    "G": 124,
+    "B": 38,
+    "HEX": "#EC7C26",
+    "English": "Dark Yellow"
+  },
+  {
+    "RAL": "RAL 2013",
+    "R": 195,
+    "G": 88,
+    "B": 49,
+    "HEX": "#C35831",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 3000",
+    "R": 175,
+    "G": 43,
+    "B": 30,
+    "HEX": "#AF2B1E",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 3001",
+    "R": 165,
+    "G": 32,
+    "B": 25,
+    "HEX": "#A52019",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 3002",
+    "R": 162,
+    "G": 35,
+    "B": 29,
+    "HEX": "#A2231D",
+    "English": "Carmine Red"
+  },
+  {
+    "RAL": "RAL 3003",
+    "R": 155,
+    "G": 17,
+    "B": 30,
+    "HEX": "#9B111E",
+    "English": "Dark pink"
+  },
+  {
+    "RAL": "RAL 3004",
+    "R": 117,
+    "G": 21,
+    "B": 30,
+    "HEX": "#75151E",
+    "English": "Purple red"
+  },
+  {
+    "RAL": "RAL 3005",
+    "R": 94,
+    "G": 33,
+    "B": 41,
+    "HEX": "#5E2129",
+    "English": "Wine red"
+  },
+  {
+    "RAL": "RAL 3007",
+    "R": 65,
+    "G": 34,
+    "B": 39,
+    "HEX": "#412227",
+    "English": "Black Red"
+  },
+  {
+    "RAL": "RAL 3009",
+    "R": 100,
+    "G": 36,
+    "B": 36,
+    "HEX": "#642424",
+    "English": "Purple red"
+  },
+  {
+    "RAL": "RAL 3011",
+    "R": 120,
+    "G": 31,
+    "B": 25,
+    "HEX": "#781F19",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 3012",
+    "R": 193,
+    "G": 135,
+    "B": 107,
+    "HEX": "#C1876B",
+    "English": "Beige"
+  },
+  {
+    "RAL": "RAL 3013",
+    "R": 161,
+    "G": 35,
+    "B": 18,
+    "HEX": "#A12312",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 3014",
+    "R": 211,
+    "G": 110,
+    "B": 112,
+    "HEX": "#D36E70",
+    "English": "Pink"
+  },
+  {
+    "RAL": "RAL 3015",
+    "R": 234,
+    "G": 137,
+    "B": 154,
+    "HEX": "#EA899A",
+    "English": "Light pink"
+  },
+  {
+    "RAL": "RAL 3016",
+    "R": 179,
+    "G": 40,
+    "B": 33,
+    "HEX": "#B32821",
+    "English": "Coral"
+  },
+  {
+    "RAL": "RAL 3017",
+    "R": 230,
+    "G": 50,
+    "B": 68,
+    "HEX": "#E63244",
+    "English": "Rose"
+  },
+  {
+    "RAL": "RAL 3018",
+    "R": 213,
+    "G": 48,
+    "B": 50,
+    "HEX": "#D53032",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 3020",
+    "R": 204,
+    "G": 6,
+    "B": 5,
+    "HEX": "#CC0605",
+    "English": "Red"
+  },
+  {
+    "RAL": "RAL 3024",
+    "R": 248,
+    "G": 0,
+    "B": 0,
+    "HEX": "#F80000",
+    "English": "Bright Red"
+  },
+  {
+    "RAL": "RAL 3026",
+    "R": 254,
+    "G": 0,
+    "B": 0,
+    "HEX": "#FE0000",
+    "English": "Bright Red"
+  },
+  {
+    "RAL": "RAL 3027",
+    "R": 197,
+    "G": 29,
+    "B": 52,
+    "HEX": "#C51D34",
+    "English": "Purple red"
+  },
+  {
+    "RAL": "RAL 3028",
+    "R": 203,
+    "G": 50,
+    "B": 52,
+    "HEX": "#CB3234",
+    "English": "Light Plum"
+  },
+  {
+    "RAL": "RAL 3031",
+    "R": 179,
+    "G": 36,
+    "B": 40,
+    "HEX": "#B32428",
+    "English": "Plum"
+  },
+  {
+    "RAL": "RAL 3032",
+    "R": 114,
+    "G": 20,
+    "B": 34,
+    "HEX": "#721422",
+    "English": "Wine red"
+  },
+  {
+    "RAL": "RAL 3033",
+    "R": 180,
+    "G": 76,
+    "B": 67,
+    "HEX": "#B44C43",
+    "English": "Light brown"
+  },
+  {
+    "RAL": "RAL 4001",
+    "R": 109,
+    "G": 63,
+    "B": 91,
+    "HEX": "#6D3F5B",
+    "English": "Indigo Blue"
+  },
+  {
+    "RAL": "RAL 4002",
+    "R": 146,
+    "G": 43,
+    "B": 62,
+    "HEX": "#922B3E",
+    "English": "Light plum"
+  },
+  {
+    "RAL": "RAL 4003",
+    "R": 222,
+    "G": 76,
+    "B": 138,
+    "HEX": "#DE4C8A",
+    "English": "Violet"
+  },
+  {
+    "RAL": "RAL 4004",
+    "R": 110,
+    "G": 28,
+    "B": 52,
+    "HEX": "#641C34",
+    "English": "Wine"
+  },
+  {
+    "RAL": "RAL 4005",
+    "R": 108,
+    "G": 70,
+    "B": 117,
+    "HEX": "#6C4675",
+    "English": "Indigo"
+  },
+  {
+    "RAL": "RAL 4006",
+    "R": 160,
+    "G": 52,
+    "B": 114,
+    "HEX": "#A03472",
+    "English": "Purple"
+  },
+  {
+    "RAL": "RAL 4007",
+    "R": 74,
+    "G": 25,
+    "B": 44,
+    "HEX": "#4A192C",
+    "English": "Dark purple"
+  },
+  {
+    "RAL": "RAL 4008",
+    "R": 144,
+    "G": 70,
+    "B": 132,
+    "HEX": "#924E7D",
+    "English": "Light Violet"
+  },
+  {
+    "RAL": "RAL 4009",
+    "R": 164,
+    "G": 125,
+    "B": 144,
+    "HEX": "#A18594",
+    "English": "Light pink"
+  },
+  {
+    "RAL": "RAL 4010",
+    "R": 215,
+    "G": 45,
+    "B": 109,
+    "HEX": "#CF3476",
+    "English": "Magenta"
+  },
+  {
+    "RAL": "RAL 4011",
+    "R": 134,
+    "G": 115,
+    "B": 161,
+    "HEX": "#8673A1",
+    "English": "Light blue"
+  },
+  {
+    "RAL": "RAL 4012",
+    "R": 108,
+    "G": 104,
+    "B": 129,
+    "HEX": "#6C6874",
+    "English": "Turquoise"
+  },
+  {
+    "RAL": "RAL 5000",
+    "R": 42,
+    "G": 46,
+    "B": 75,
+    "HEX": "#354D73",
+    "English": "Dark blue"
+  },
+  {
+    "RAL": "RAL 5001",
+    "R": 31,
+    "G": 52,
+    "B": 56,
+    "HEX": "#1F3438",
+    "English": "Green blue"
+  },
+  {
+    "RAL": "RAL 5002",
+    "R": 32,
+    "G": 33,
+    "B": 79,
+    "HEX": "#20214F",
+    "English": "Dark blue"
+  },
+  {
+    "RAL": "RAL 5003",
+    "R": 29,
+    "G": 30,
+    "B": 51,
+    "HEX": "#1D1E33",
+    "English": "Dark blue"
+  },
+  {
+    "RAL": "RAL 5004",
+    "R": 24,
+    "G": 23,
+    "B": 28,
+    "HEX": "#18171C",
+    "English": "Black"
+  },
+  {
+    "RAL": "RAL 5005",
+    "R": 30,
+    "G": 45,
+    "B": 110,
+    "HEX": "#1E2460",
+    "English": "Blue"
+  },
+  {
+    "RAL": "RAL 5007",
+    "R": 62,
+    "G": 95,
+    "B": 138,
+    "HEX": "#3E5F8A",
+    "English": "Dark Blue"
+  },
+  {
+    "RAL": "RAL 5008",
+    "R": 38,
+    "G": 37,
+    "B": 45,
+    "HEX": "#26252D",
+    "English": "Gray Blue"
+  },
+  {
+    "RAL": "RAL 5009",
+    "R": 2,
+    "G": 86,
+    "B": 105,
+    "HEX": "#025669",
+    "English": "Turquoise"
+  },
+  {
+    "RAL": "RAL 5010",
+    "R": 14,
+    "G": 41,
+    "B": 75,
+    "HEX": "#0E294B",
+    "English": "Dark blue"
+  },
+  {
+    "RAL": "RAL 5011",
+    "R": 35,
+    "G": 26,
+    "B": 36,
+    "HEX": "#231A24",
+    "English": "Dark Blue"
+  },
+  {
+    "RAL": "RAL 5012",
+    "R": 59,
+    "G": 131,
+    "B": 189,
+    "HEX": "#3B83BD",
+    "English": "Light blue"
+  },
+  {
+    "RAL": "RAL 5013",
+    "R": 37,
+    "G": 41,
+    "B": 74,
+    "HEX": "#1E213D",
+    "English": "Dark Blue"
+  },
+  {
+    "RAL": "RAL 5014",
+    "R": 96,
+    "G": 111,
+    "B": 140,
+    "HEX": "#606E8C",
+    "English": "Light Gray"
+  },
+  {
+    "RAL": "RAL 5015",
+    "R": 34,
+    "G": 113,
+    "B": 179,
+    "HEX": "#2271B3",
+    "English": "Blue"
+  },
+  {
+    "RAL": "RAL 5017",
+    "R": 6,
+    "G": 57,
+    "B": 113,
+    "HEX": "#063971",
+    "English": "Dark Blue"
+  },
+  {
+    "RAL": "RAL 5018",
+    "R": 63,
+    "G": 136,
+    "B": 143,
+    "HEX": "#3F888F",
+    "English": "Turquoise"
+  },
+  {
+    "RAL": "RAL 5019",
+    "R": 27,
+    "G": 85,
+    "B": 131,
+    "HEX": "#1B5583",
+    "English": "Blue"
+  },
+  {
+    "RAL": "RAL 5020",
+    "R": 29,
+    "G": 51,
+    "B": 74,
+    "HEX": "#1D334A",
+    "English": "Dark Blue"
+  },
+  {
+    "RAL": "RAL 5021",
+    "R": 37,
+    "G": 109,
+    "B": 123,
+    "HEX": "#256D7B",
+    "English": "Turquoise"
+  },
+  {
+    "RAL": "RAL 5022",
+    "R": 37,
+    "G": 40,
+    "B": 80,
+    "HEX": "#252850",
+    "English": "Purple"
+  },
+  {
+    "RAL": "RAL 5023",
+    "R": 73,
+    "G": 103,
+    "B": 141,
+    "HEX": "#49678D",
+    "English": "Blue"
+  },
+  {
+    "RAL": "RAL 5024",
+    "R": 93,
+    "G": 155,
+    "B": 155,
+    "HEX": "#5D9B9B",
+    "English": "Light Blue"
+  },
+  {
+    "RAL": "RAL 5025",
+    "R": 42,
+    "G": 100,
+    "B": 120,
+    "HEX": "#2A6478",
+    "English": "Dark Turquiose"
+  },
+  {
+    "RAL": "RAL 5026",
+    "R": 16,
+    "G": 44,
+    "B": 84,
+    "HEX": "#102C54",
+    "English": "Dark Blue"
+  },
+  {
+    "RAL": "RAL 6000",
+    "R": 49,
+    "G": 102,
+    "B": 80,
+    "HEX": "#316650",
+    "English": "Patina"
+  },
+  {
+    "RAL": "RAL 6001",
+    "R": 40,
+    "G": 114,
+    "B": 51,
+    "HEX": "#287233",
+    "English": "Green"
+  },
+  {
+    "RAL": "RAL 6002",
+    "R": 45,
+    "G": 87,
+    "B": 44,
+    "HEX": "#2D572C",
+    "English": "Dark Green"
+  },
+  {
+    "RAL": "RAL 6003",
+    "R": 66,
+    "G": 70,
+    "B": 50,
+    "HEX": "#424632",
+    "English": "Khaki"
+  },
+  {
+    "RAL": "RAL 6004",
+    "R": 31,
+    "G": 58,
+    "B": 61,
+    "HEX": "#1F3A3D",
+    "English": "Blue green"
+  },
+  {
+    "RAL": "RAL 6005",
+    "R": 47,
+    "G": 69,
+    "B": 56,
+    "HEX": "#2F4538",
+    "English": "Grayish green"
+  },
+  {
+    "RAL": "RAL 6006",
+    "R": 62,
+    "G": 59,
+    "B": 50,
+    "HEX": "#3E3B32",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 6007",
+    "R": 52,
+    "G": 59,
+    "B": 41,
+    "HEX": "#343B29",
+    "English": "Dark Khaki"
+  },
+  {
+    "RAL": "RAL 6008",
+    "R": 57,
+    "G": 53,
+    "B": 42,
+    "HEX": "#39352A",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 6010",
+    "R": 53,
+    "G": 104,
+    "B": 45,
+    "HEX": "#35682D",
+    "English": "Green"
+  },
+  {
+    "RAL": "RAL 6012",
+    "R": 52,
+    "G": 62,
+    "B": 64,
+    "HEX": "#343E40",
+    "English": "Dark Blue"
+  },
+  {
+    "RAL": "RAL 6013",
+    "R": 108,
+    "G": 113,
+    "B": 86,
+    "HEX": "#6C7156",
+    "English": "Light green"
+  },
+  {
+    "RAL": "RAL 6014",
+    "R": 71,
+    "G": 64,
+    "B": 46,
+    "HEX": "#47402E",
+    "English": "Brownish green"
+  },
+  {
+    "RAL": "RAL 6015",
+    "R": 59,
+    "G": 60,
+    "B": 54,
+    "HEX": "#3B3C36",
+    "English": "Dark gray"
+  },
+  {
+    "RAL": "RAL 6016",
+    "R": 30,
+    "G": 89,
+    "B": 69,
+    "HEX": "#1E5945",
+    "English": "Turquoise green"
+  },
+  {
+    "RAL": "RAL 6018",
+    "R": 87,
+    "G": 166,
+    "B": 57,
+    "HEX": "#57A639",
+    "English": "Yellow green"
+  },
+  {
+    "RAL": "RAL 6019",
+    "R": 189,
+    "G": 236,
+    "B": 182,
+    "HEX": "#BDECB6",
+    "English": "Light green"
+  },
+  {
+    "RAL": "RAL 6020",
+    "R": 46,
+    "G": 58,
+    "B": 35,
+    "HEX": "#2E3A23",
+    "English": "Dark green"
+  },
+  {
+    "RAL": "RAL 6021",
+    "R": 137,
+    "G": 172,
+    "B": 118,
+    "HEX": "#89AC76",
+    "English": "Light Green"
+  },
+  {
+    "RAL": "RAL 6022",
+    "R": 37,
+    "G": 34,
+    "B": 27,
+    "HEX": "#25221B",
+    "English": "Black"
+  },
+  {
+    "RAL": "RAL 6024",
+    "R": 48,
+    "G": 132,
+    "B": 70,
+    "HEX": "#308446",
+    "English": "Green"
+  },
+  {
+    "RAL": "RAL 6025",
+    "R": 61,
+    "G": 100,
+    "B": 45,
+    "HEX": "#3D642D",
+    "English": "Dark green"
+  },
+  {
+    "RAL": "RAL 6026",
+    "R": 1,
+    "G": 93,
+    "B": 82,
+    "HEX": "#015D52",
+    "English": "Turquoise"
+  },
+  {
+    "RAL": "RAL 6027",
+    "R": 132,
+    "G": 195,
+    "B": 190,
+    "HEX": "#84C3BE",
+    "English": "Light blue"
+  },
+  {
+    "RAL": "RAL 6028",
+    "R": 44,
+    "G": 85,
+    "B": 69,
+    "HEX": "#2C5545",
+    "English": "Dark green"
+  },
+  {
+    "RAL": "RAL 6029",
+    "R": 32,
+    "G": 96,
+    "B": 61,
+    "HEX": "#20603D",
+    "English": "Dark green"
+  },
+  {
+    "RAL": "RAL 6032",
+    "R": 49,
+    "G": 127,
+    "B": 67,
+    "HEX": "#317F43",
+    "English": "Green"
+  },
+  {
+    "RAL": "RAL 6033",
+    "R": 73,
+    "G": 126,
+    "B": 118,
+    "HEX": "#497E76",
+    "English": "Dark Turquoise"
+  },
+  {
+    "RAL": "RAL 6034",
+    "R": 127,
+    "G": 181,
+    "B": 181,
+    "HEX": "#7FB5B5",
+    "English": "Light blue"
+  },
+  {
+    "RAL": "RAL 6035",
+    "R": 28,
+    "G": 84,
+    "B": 45,
+    "HEX": "#1C542D",
+    "English": "Dark green"
+  },
+  {
+    "RAL": "RAL 6036",
+    "R": 22,
+    "G": 53,
+    "B": 55,
+    "HEX": "#193737",
+    "English": "Dark green"
+  },
+  {
+    "RAL": "RAL 6037",
+    "R": 0,
+    "G": 143,
+    "B": 57,
+    "HEX": "#008F39",
+    "English": "Green"
+  },
+  {
+    "RAL": "RAL 6038",
+    "R": 0,
+    "G": 187,
+    "B": 45,
+    "HEX": "#00BB2D",
+    "English": "Bright Green"
+  },
+  {
+    "RAL": "RAL 7000",
+    "R": 120,
+    "G": 133,
+    "B": 139,
+    "HEX": "#78858B",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 7001",
+    "R": 138,
+    "G": 149,
+    "B": 151,
+    "HEX": "#8A9597",
+    "English": "Silver gray"
+  },
+  {
+    "RAL": "RAL 7002",
+    "R": 126,
+    "G": 123,
+    "B": 82,
+    "HEX": "#7E7B52",
+    "English": "Khaki"
+  },
+  {
+    "RAL": "RAL 7003",
+    "R": 108,
+    "G": 112,
+    "B": 89,
+    "HEX": "#6C7059",
+    "English": "Dark Khaki"
+  },
+  {
+    "RAL": "RAL 7004",
+    "R": 150,
+    "G": 153,
+    "B": 146,
+    "HEX": "#969992",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 7005",
+    "R": 100,
+    "G": 107,
+    "B": 99,
+    "HEX": "#646B63",
+    "English": "Dark Gray"
+  },
+  {
+    "RAL": "RAL 7006",
+    "R": 109,
+    "G": 101,
+    "B": 82,
+    "HEX": "#6D6552",
+    "English": "Beige grey"
+  },
+  {
+    "RAL": "RAL 7008",
+    "R": 106,
+    "G": 95,
+    "B": 49,
+    "HEX": "#6A5F31",
+    "English": "Khaki"
+  },
+  {
+    "RAL": "RAL 7009",
+    "R": 77,
+    "G": 86,
+    "B": 69,
+    "HEX": "#4D5645",
+    "English": "Green grey"
+  },
+  {
+    "RAL": "RAL 7010",
+    "R": 76,
+    "G": 81,
+    "B": 74,
+    "HEX": "#4C514A",
+    "English": "Dark Gray"
+  },
+  {
+    "RAL": "RAL 7011",
+    "R": 67,
+    "G": 75,
+    "B": 77,
+    "HEX": "#434B4D",
+    "English": "Blueish Gray"
+  },
+  {
+    "RAL": "RAL 7012",
+    "R": 78,
+    "G": 87,
+    "B": 84,
+    "HEX": "#4E5754",
+    "English": "Cement"
+  },
+  {
+    "RAL": "RAL 7013",
+    "R": 70,
+    "G": 69,
+    "B": 49,
+    "HEX": "#464531",
+    "English": "Brown grey"
+  },
+  {
+    "RAL": "RAL 7015",
+    "R": 67,
+    "G": 71,
+    "B": 80,
+    "HEX": "#434750",
+    "English": "Dark indigo"
+  },
+  {
+    "RAL": "RAL 7016",
+    "R": 41,
+    "G": 49,
+    "B": 51,
+    "HEX": "#293133",
+    "English": "Dark gray"
+  },
+  {
+    "RAL": "RAL 7021",
+    "R": 35,
+    "G": 40,
+    "B": 43,
+    "HEX": "#23282B",
+    "English": "Dark blue"
+  },
+  {
+    "RAL": "RAL 7022",
+    "R": 51,
+    "G": 47,
+    "B": 44,
+    "HEX": "#332F2C",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 7023",
+    "R": 104,
+    "G": 108,
+    "B": 94,
+    "HEX": "#686C5E",
+    "English": "Light khaki"
+  },
+  {
+    "RAL": "RAL 7024",
+    "R": 71,
+    "G": 74,
+    "B": 81,
+    "HEX": "#474A51",
+    "English": "Dark gray"
+  },
+  {
+    "RAL": "RAL 7026",
+    "R": 47,
+    "G": 53,
+    "B": 59,
+    "HEX": "#2F353B",
+    "English": "Blueish dark gray"
+  },
+  {
+    "RAL": "RAL 7030",
+    "R": 139,
+    "G": 140,
+    "B": 122,
+    "HEX": "#8B8C7A",
+    "English": "Light green"
+  },
+  {
+    "RAL": "RAL 7031",
+    "R": 71,
+    "G": 75,
+    "B": 78,
+    "HEX": "#474B4E",
+    "English": "Blue grey"
+  },
+  {
+    "RAL": "RAL 7032",
+    "R": 184,
+    "G": 183,
+    "B": 153,
+    "HEX": "#B8B799",
+    "English": "Cream"
+  },
+  {
+    "RAL": "RAL 7033",
+    "R": 125,
+    "G": 132,
+    "B": 113,
+    "HEX": "#7D8471",
+    "English": "Green gray"
+  },
+  {
+    "RAL": "RAL 7034",
+    "R": 143,
+    "G": 139,
+    "B": 102,
+    "HEX": "#8F8B66",
+    "English": "Khaki"
+  },
+  {
+    "RAL": "RAL 7035",
+    "R": 203,
+    "G": 208,
+    "B": 204,
+    "HEX": "#CBD0CC",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 7036",
+    "R": 127,
+    "G": 118,
+    "B": 121,
+    "HEX": "#7F7679",
+    "English": "Dark Silver"
+  },
+  {
+    "RAL": "RAL 7037",
+    "R": 125,
+    "G": 127,
+    "B": 120,
+    "HEX": "#7D7F7D",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 7038",
+    "R": 195,
+    "G": 195,
+    "B": 195,
+    "HEX": "#B5B8B1",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 7039",
+    "R": 108,
+    "G": 105,
+    "B": 96,
+    "HEX": "#6C6960",
+    "English": "Dark gray"
+  },
+  {
+    "RAL": "RAL 7040",
+    "R": 157,
+    "G": 161,
+    "B": 170,
+    "HEX": "#9DA1AA",
+    "English": "Blueish gray"
+  },
+  {
+    "RAL": "RAL 7042",
+    "R": 141,
+    "G": 148,
+    "B": 141,
+    "HEX": "#8D948D",
+    "English": "Turquoise Gray"
+  },
+  {
+    "RAL": "RAL 7043",
+    "R": 78,
+    "G": 84,
+    "B": 82,
+    "HEX": "#4E5452",
+    "English": "Dark Turquoise Gray"
+  },
+  {
+    "RAL": "RAL 7044",
+    "R": 202,
+    "G": 196,
+    "B": 176,
+    "HEX": "#CAC4B0",
+    "English": "Cream"
+  },
+  {
+    "RAL": "RAL 7045",
+    "R": 144,
+    "G": 144,
+    "B": 144,
+    "HEX": "#909090",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 7046",
+    "R": 130,
+    "G": 137,
+    "B": 143,
+    "HEX": "#82898F",
+    "English": "Blueish Gray"
+  },
+  {
+    "RAL": "RAL 7047",
+    "R": 208,
+    "G": 208,
+    "B": 208,
+    "HEX": "#D0D0D0",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 7048",
+    "R": 137,
+    "G": 129,
+    "B": 118,
+    "HEX": "#898176",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 8000",
+    "R": 130,
+    "G": 108,
+    "B": 52,
+    "HEX": "#826C34",
+    "English": "Green brown"
+  },
+  {
+    "RAL": "RAL 8001",
+    "R": 149,
+    "G": 95,
+    "B": 32,
+    "HEX": "#955F20",
+    "English": "Dark Yellow"
+  },
+  {
+    "RAL": "RAL 8002",
+    "R": 108,
+    "G": 59,
+    "B": 42,
+    "HEX": "#6C3B2A",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 8003",
+    "R": 115,
+    "G": 66,
+    "B": 34,
+    "HEX": "#734222",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 8004",
+    "R": 142,
+    "G": 64,
+    "B": 42,
+    "HEX": "#8E402A",
+    "English": "Copper"
+  },
+  {
+    "RAL": "RAL 8007",
+    "R": 89,
+    "G": 53,
+    "B": 31,
+    "HEX": "#59351F",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 8008",
+    "R": 111,
+    "G": 79,
+    "B": 40,
+    "HEX": "#6F4F28",
+    "English": "Khaki"
+  },
+  {
+    "RAL": "RAL 8011",
+    "R": 91,
+    "G": 58,
+    "B": 41,
+    "HEX": "#5B3A29",
+    "English": "Light brown"
+  },
+  {
+    "RAL": "RAL 8012",
+    "R": 89,
+    "G": 35,
+    "B": 33,
+    "HEX": "#592321",
+    "English": "Wine brown"
+  },
+  {
+    "RAL": "RAL 8014",
+    "R": 56,
+    "G": 44,
+    "B": 30,
+    "HEX": "#382C1E",
+    "English": "Dark green"
+  },
+  {
+    "RAL": "RAL 8015",
+    "R": 99,
+    "G": 58,
+    "B": 52,
+    "HEX": "#633A34",
+    "English": "Light brown"
+  },
+  {
+    "RAL": "RAL 8016",
+    "R": 76,
+    "G": 47,
+    "B": 39,
+    "HEX": "#4C2F27",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 8017",
+    "R": 69,
+    "G": 50,
+    "B": 46,
+    "HEX": "#45322E",
+    "English": "Dark brown"
+  },
+  {
+    "RAL": "RAL 8019",
+    "R": 64,
+    "G": 58,
+    "B": 58,
+    "HEX": "#403A3A",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 8022",
+    "R": 33,
+    "G": 33,
+    "B": 33,
+    "HEX": "#212121",
+    "English": "Black"
+  },
+  {
+    "RAL": "RAL 8023",
+    "R": 166,
+    "G": 94,
+    "B": 46,
+    "HEX": "#A65E2E",
+    "English": "Orange"
+  },
+  {
+    "RAL": "RAL 8024",
+    "R": 121,
+    "G": 85,
+    "B": 61,
+    "HEX": "#79553D",
+    "English": "Gray brown"
+  },
+  {
+    "RAL": "RAL 8025",
+    "R": 117,
+    "G": 92,
+    "B": 72,
+    "HEX": "#755C48",
+    "English": "Brown gray"
+  },
+  {
+    "RAL": "RAL 8028",
+    "R": 78,
+    "G": 59,
+    "B": 49,
+    "HEX": "#4E3B31",
+    "English": "Dark brown"
+  },
+  {
+    "RAL": "RAL 8029",
+    "R": 118,
+    "G": 60,
+    "B": 40,
+    "HEX": "#763C28",
+    "English": "Brown"
+  },
+  {
+    "RAL": "RAL 9001",
+    "R": 250,
+    "G": 244,
+    "B": 227,
+    "HEX": "#FDF4E3",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 9002",
+    "R": 231,
+    "G": 235,
+    "B": 218,
+    "HEX": "#E7EBDA",
+    "English": "Grey white"
+  },
+  {
+    "RAL": "RAL 9003",
+    "R": 244,
+    "G": 244,
+    "B": 244,
+    "HEX": "#F4F4F4",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 9004",
+    "R": 40,
+    "G": 40,
+    "B": 40,
+    "HEX": "#282828",
+    "English": "Dark Gray"
+  },
+  {
+    "RAL": "RAL 9005",
+    "R": 10,
+    "G": 10,
+    "B": 13,
+    "HEX": "#0A0A0A",
+    "English": "Black"
+  },
+  {
+    "RAL": "RAL 9006",
+    "R": 165,
+    "G": 165,
+    "B": 165,
+    "HEX": "#A5A5A5",
+    "English": "Silver"
+  },
+  {
+    "RAL": "RAL 9007",
+    "R": 143,
+    "G": 143,
+    "B": 143,
+    "HEX": "#8F8F8F",
+    "English": "Gray"
+  },
+  {
+    "RAL": "RAL 9010",
+    "R": 255,
+    "G": 255,
+    "B": 255,
+    "HEX": "#FFFFFF",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 9011",
+    "R": 28,
+    "G": 28,
+    "B": 28,
+    "HEX": "#1C1C1C",
+    "English": "Black"
+  },
+  {
+    "RAL": "RAL 9016",
+    "R": 246,
+    "G": 246,
+    "B": 246,
+    "HEX": "#F6F6F6",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 9017",
+    "R": 30,
+    "G": 30,
+    "B": 30,
+    "HEX": "#1E1E1E",
+    "English": "Black"
+  },
+  {
+    "RAL": "RAL 9018",
+    "R": 207,
+    "G": 211,
+    "B": 205,
+    "HEX": "#CFD3CD",
+    "English": "White"
+  },
+  {
+    "RAL": "RAL 9022",
+    "R": 156,
+    "G": 156,
+    "B": 156,
+    "HEX": "#9C9C9C",
+    "English": "Light Gray"
+  },
+  {
+    "RAL": "RAL 9023",
+    "R": 130,
+    "G": 130,
+    "B": 130,
+    "HEX": "#828282",
+    "English": "Gray"
+  }
+]

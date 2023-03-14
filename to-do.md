@@ -2,6 +2,9 @@
 - [  ] Fix video hitbox overlay
 - [  ] Peg camera resolution
 - [  ] Move to pure JS implementation
+  - [ ✓ ] Add colorthief
+  - [ ✓ ] Add color name matching
+  - [  ] Integrate it with app.jsx
 - [  ] Precompile JSX
 - [  ] Move from development to production scripts 
 - [  ] Ensure Screen reader support
