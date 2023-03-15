@@ -53,10 +53,13 @@ class Frontend extends React.Component {
             const sh = y-sy+r < imgHeight-sy ? y-sy+r : imgHeight-sy;
         
             var imageData = ctx.getImageData(sx, sy, sw, sh);
-        
+            
+            let palette = getPalette(imageData, paletteSize, 1);
+            palette = palette !== null ? palette : [[255,255,255]];
+
             this.dataProcessedCallback({
                 pixelColor: getPixelColor(imageData, sw, x-sx, y-sy),
-                palette: getPalette(imageData, paletteSize, 1) 
+                palette: palette
             });
         }
     
@@ -72,6 +75,7 @@ class Frontend extends React.Component {
     }
 
     dataProcessedCallback(data) {
+        console.log(data)
         let color = getColorFromPallete(
             data.palette[0][0], 
             data.palette[0][1],
