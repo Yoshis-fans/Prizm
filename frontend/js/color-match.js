@@ -6,15 +6,24 @@ fetch(defaultPalettePath).then((response) => response.json()).then((json) => def
 function getColorFromPallete(r, g, b, palette = defaultPalette) {
     if(palette === null) new Error("Palette cannot be null");
     
-    let min = 766;
+    let min = 442;
     let closestColor = null;
     for(let i = 0; i < palette.length; i++) {
-        let d = Math.abs(r-Number(palette[i]["R"])) + Math.abs(g-Number(palette[i]["G"])) + Math.abs(b-Number(palette[i]["B"]));
+        let d = Math.sqrt(
+            Math.pow(r-Number(palette[i]["R"]), 2) + 
+            Math.pow(g-Number(palette[i]["G"]), 2) + 
+            Math.pow(b-Number(palette[i]["B"]), 2)
+            );
 
-        if(d == 0) return palette[i]; // Exact match found, no need to look further
+        if(d == 0) { // Exact match found, no need to look further
+            closestColor = Object.assign({}, palette[i]);
+            closestColor["d"] = 0;
+            return closestColor; 
+        }
         if(d < min) { // Closer Match found, overriding closestColor
             min = d;
-            closestColor = palette[i];
+            closestColor = Object.assign({}, palette[i]);
+            closestColor["d"] = d;
         }
     }
 
