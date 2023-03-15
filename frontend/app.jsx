@@ -75,7 +75,6 @@ class Frontend extends React.Component {
     }
 
     dataProcessedCallback(data) {
-        console.log(data)
         let color = getColorFromPallete(
             data.palette[0][0], 
             data.palette[0][1],
