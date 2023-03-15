@@ -9,3 +9,5 @@
 
 CSV File RAL from:
 #https://gist.github.com/lunohodov/1995178#file-ral_standard-csv
+
+Using ColorThief Library
