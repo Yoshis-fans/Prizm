@@ -34,9 +34,11 @@ body {
     width: 100%;
 }
 
-#colorScroll {
+.scroll {
     height: 50px;
+    width: 50px;
     background-color: gray;
+    color: rgba(255,255,255,0);
     position: fixed;
     bottom: 0;
     right: 0;
@@ -51,15 +53,11 @@ body {
     justify-content: flex-start;
 }
 
-#colorScroll.shown {
+.scroll.open {
     width: 250px;
     padding-left: 25px;
     font-size: 25px;
-}
-
-#colorScroll.hidden {
-    width: 50px;
-    color: rgba(255,255,255,0)
+    color: #000000;
 }
 
 #colorDot {
